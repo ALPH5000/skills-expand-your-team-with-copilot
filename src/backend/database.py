@@ -103,8 +103,7 @@ initial_activities = {
         "schedule": "Tuesdays at 7:00 PM",
         "schedule_details": {
             "days": ["Tuesday"],
-            "start_time": "19:00",
-            "end_time": "19:00"
+            "start_time": "19:00"
         },
         "max_participants": 15,
         "participants": []
